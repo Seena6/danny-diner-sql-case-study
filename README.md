@@ -108,10 +108,19 @@ GROUP BY customer_id;
 
 ## 🎯 Key Insights
 
-* Some customers contribute significantly more revenue than others
-* Sushi is the most frequently purchased and highest point-generating item
+* Customer A appears to be the highest spender based on total purchase value
+* Sushi is the most popular and highest point-generating item
 * Customers tend to spend more after joining the loyalty program
-* Loyalty incentives increase customer engagement and repeat purchases
+* Loyalty incentives increase repeat purchases and engagement
+
+---
+
+## 📈 Business Impact
+
+* Helps identify high-value customers for targeted marketing
+* Supports data-driven decisions for menu optimization
+* Improves effectiveness of loyalty programs
+* Enhances customer retention strategies
 
 ---
 
@@ -126,9 +135,13 @@ GROUP BY customer_id;
 
 ---
 
-## 📸 Query Output Screenshots
+## 📸 Query Outputs
 
-Screenshots of query outputs are available in the **screenshots** folder.
+![Total Spending](screenshots/total_spent.png)
+![First Item Purchased](screenshots/first_item.png)
+![Most Popular Item](screenshots/most_popular_item.png)
+![Customer Favorites](screenshots/customer_favorites.png)
+![Loyalty Points](screenshots/loyalty_points.png)
 
 ---
 
